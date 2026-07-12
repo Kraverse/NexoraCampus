@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 NexoraCampus
 
 > **Nexora = Nexus + Aurora** — a connection hub with a bright, modern identity.
@@ -137,3 +138,6 @@ recommendations · verified college badge system.
 ## 📄 License
 
 MIT
+=======
+# NexoraCampus
+>>>>>>> 75c36feef2de4969b045edf9458c680143876b0e
