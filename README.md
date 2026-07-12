@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<< HEAD
 # 🎓 NexoraCampus
 
 > **Nexora = Nexus + Aurora** — a connection hub with a bright, modern identity.
