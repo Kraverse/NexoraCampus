@@ -6,7 +6,7 @@
 NexoraCampus is a **premium, AI-powered student community super-app**. It helps
 students discover opportunities, share resources, find help, and connect — all
 in one unified, dark-mode-first platform that feels like a real startup product.
-
+ 
 🔗 **Live demo:** _deploy to Vercel and drop the link here_
 
 ---
